@@ -1,3 +1,6 @@
+# Author: Angel Jair Haro
+# Date: 01-22-2023
+
 #colorscheme import 
 import:
   - ~/.config/alacritty/themes/gruvbox-material-alacritty.yml
