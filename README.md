@@ -4,7 +4,6 @@ My Alacritty config file is the result of hours of love and dedication, carefull
 
 ![](z/alacritty-tmux-vim.png)
 
-![](z/alacritty-opacity-One.png)
 ---
 
 # Requirement
