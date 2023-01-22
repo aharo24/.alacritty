@@ -17,14 +17,17 @@ Install `Homebrew`
 
 # Installation with Homebrew
 
-Step.1
+Step 1
 Install alacritty: 
 ``` brew
 brew install alacritty
 ```
-
-Step.2 
-Copy the alacritty.yml to `~/.config/alacritty/alacritty.yml`
+.
+.
+.
+Step2 
+Copy file:
+my file to  `~/.config/alacritty/alacritty.yml`
 
 #### [my alacritty file](https://github.com/aharo24/dot-alacritty/blob/main/resources/alacritty.yml)
 
