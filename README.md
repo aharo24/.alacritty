@@ -9,10 +9,16 @@ Alacritty configuration, optimized for speed and efficiency. I've spent countles
 
 ---
 
-# Installation
+# Requirement
+Install `Homebrew`
+```brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+# Installation with Homebrew
 
 Step.1
-Install starship: `brew install alacritty`
+Install alacritty: `brew install alacritty`
 
 Step.2 
 Copy the alacritty.yml to `~/.config/alacritty/alacritty.yml`
