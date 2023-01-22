@@ -4,9 +4,7 @@ My Alacritty config file is the result of hours of love and dedication, carefull
 
 ![](z/alacritty-git.png)
 
-![](z/alacritty-exa.png)
-
-
+![](z/alacritty-opacity-One.png)
 ---
 
 # Requirement
