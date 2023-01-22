@@ -2,7 +2,9 @@
 My Alacritty config file is the result of hours of love and dedication, carefully crafted to enhance my terminal experience. With a color scheme imported from the Gruvbox Material theme, and a combination of FiraCode Nerd Font and Hack Nerd Font for my font configuration, I've ensured that my terminal looks and feels great. I've also enabled clickable URLs and configured my cursor to suit my preferences. Additionally, I've added visual bell animation and set the window dimensions, position, and decorations to my liking. The config also includes options for clipboard, line indicator and scrolling. I've also added live config reload feature to make it easy to make changes on the go. Overall, this config is tailored to my specific needs and preferences and I am excited to share it with others!
 
 
-![](z/alacritty-git.png)
+![](z/Alacritty.png)
+
+![](z/alacritty2.png)
 
 ![](z/alacritty-opacity-One.png)
 ---
