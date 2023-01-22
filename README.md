@@ -1,6 +1,5 @@
 # Alacritty
-Alacritty configuration, optimized for speed and efficiency. I've spent countless hours tweaking and fine-tuning
-
+Alacritty configuration, optimized for speed and efficiency. I've spent countless hours tweaking and fine-tuning.
 
 
 ![](z/alacritty-git.png)
@@ -12,8 +11,10 @@ Alacritty configuration, optimized for speed and efficiency. I've spent countles
 
 # Installation
 
+Step.1
 Install starship: `brew install alacritty`
 
+Step.2 
 Copy the alacritty.yml to `~/.config/alacritty/alacritty.yml`
 
 #### [my alacritty file](https://github.com/aharo24/dot-alacritty/blob/main/resources/alacritty.yml)
@@ -24,7 +25,6 @@ Copy the alacritty.yml to `~/.config/alacritty/alacritty.yml`
 ### Shell Support
 (I use [fish shell](https://fishshell.com/))
 
-Shell suppoert
 - Bash
 - Cmd
 - Elvish
@@ -37,10 +37,10 @@ Shell suppoert
 - Zsh
 
 
-## color-scheme
+### color-scheme
 ![](z/alacritty-my-gruvbox.png)
 
-### [My colorscheme for alacritty in case you want to use it](https://github.com/aharo24/dot-alacritty/blob/main/resources/aharo24-gruvbox.yml)
+##### [My colorscheme for alacritty in case you want to use it](https://github.com/aharo24/dot-alacritty/blob/main/resources/aharo24-gruvbox.yml)
 
 
 
