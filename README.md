@@ -10,21 +10,29 @@ My Alacritty config file is the result of hours of love and dedication, carefull
 ---
 
 # Requirement
+.
+.
+.
 Install `Homebrew`
 ```brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+...`optional but STRONGLY recommended`
+- #### [starship](https://github.com/aharo24/dot-starship)
+
+---
+
 # Installation with Homebrew
 
-Step 1
+...Step 1
 Install alacritty: 
 ``` brew
 brew install alacritty
 ```
 
 
-Step 2 
+...Step 2 
 Copy file:
 my file to  `~/.config/alacritty/alacritty.yml`
 
