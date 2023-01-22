@@ -79,7 +79,7 @@ I am excited to announce that I am in the process of updating my dot-alacritty r
 
 Feel free to follow me on twitter: [@aharo24](https://www.twitter.com/aharo24)!
 
-email me with any questions, improvements, or just to chat.
+email me with any questions, improvements, bugs, or just to chat.
 io.aharo24@gmail.com
 
 
