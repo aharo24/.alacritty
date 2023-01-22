@@ -1,6 +1,7 @@
 #colorscheme import 
 import:
   - ~/.config/alacritty/themes/gruvbox-material-alacritty.yml
+  
   #- ~/.your_path/colorscheme.yml
 #
 # or you can drop your prefered colorscheme here but it looks nicer like above
