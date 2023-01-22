@@ -18,8 +18,9 @@ Copy the alacritty.yml to `~/.config/alacritty/alacritty.yml`
 
 
 ## color-scheme
-![](aharo24%202023-01-21%20at%209.06.49%20PM.png)
-I've dropped my colorscheme for alacritty in case you want to use them.
+![](z/alacritty-my-gruvbox.png)
+
+##### [I've dropped my colorscheme for alacritty in case you want to use it. ](https://github.com/aharo24/dot-alacritty/blob/main/resources/aharo24-gruvbox.yml)
 
 
 
