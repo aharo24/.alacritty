@@ -22,10 +22,9 @@ Install alacritty: 
 ``` brew
 brew install alacritty
 ```
-.
-.
-.
-Step2 
+
+
+Step 2 
 Copy file:
 my file to  `~/.config/alacritty/alacritty.yml`
 
