@@ -18,7 +18,10 @@ Install `Homebrew`
 # Installation with Homebrew
 
 Step.1
-Install alacritty: `brew install alacritty`
+Install alacritty: 
+``` brew
+brew install alacritty
+```
 
 Step.2 
 Copy the alacritty.yml to `~/.config/alacritty/alacritty.yml`
