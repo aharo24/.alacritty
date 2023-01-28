@@ -60,8 +60,6 @@ my file to  `~/.config/alacritty/alacritty.yml`
 
 
 
-
-
 # [dotfiles](https://github.com/aharo24/opensource/tree/main/dotfiles)
 - Please 
 	- be patient (slowly merging all dotfiles for public use)
