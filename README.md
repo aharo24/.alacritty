@@ -17,8 +17,8 @@ Install `Homebrew`
 
 ...`optional but STRONGLY recommended`
 - #### [starship](https://github.com/aharo24/dot-starship)
+- ### [vivaldi](https://github.com/aharo24/dot-vivaldi)
 
----
 
 # Installation with Homebrew
 
@@ -56,23 +56,32 @@ my file to  `~/.config/alacritty/alacritty.yml`
 ### color-scheme
 ![](z/alacritty-my-gruvbox.png)
 
-##### [My colorscheme for alacritty in case you want to use it](https://github.com/aharo24/dot-alacritty/blob/main/resources/aharo24-gruvbox.yml)
+### [My colorscheme for alacritty in case you want to use it](https://github.com/aharo24/dot-alacritty/blob/main/resources/aharo24-gruvbox.yml)
 
 
 
----
 
 
-# [How to Use](https://github.com/aharo24/opensource/tree/main/dotfiles) 
-- Please refer to my opensource docs.
-	- be patient (slowly merging notes and code)
-.
-.
-.
-I am excited to announce that I am in the process of updating my dot-alacritty repository. You can access it on my opensource GitHub page. This update includes improvements to thousands of lines of code across various programming languages and topics. Please bear with me as I work to merge my notes and code. Thank you for your patience!
+# [dotfiles](https://github.com/aharo24/opensource/tree/main/dotfiles)
+- Please 
+	- be patient (slowly merging all dotfiles for public use)
 
-
----
+- [alacritty ✅](https://github.com/aharo24/dot-alacritty)
+- done
+- exa
+- fish-abbreviation-tips
+- fish
+- flameshot
+- keycastr 
+- obsidian
+- raycast
+- rectangle
+- spunge
+- [starship ✅](https://github.com/aharo24/dot-starship)
+- sublime
+- [vivaldi  ✅](https://github.com/aharo24/dot-vivaldi)
+- tmux
+- z
 
 # [Contact Info](https://github.com/aharo24/opensource)
 
