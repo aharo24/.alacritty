@@ -16,7 +16,7 @@ Install `Homebrew`
 ```
 
 ...`optional but STRONGLY recommended`
-- #### [starship](https://github.com/aharo24/dot-starship)
+- ### [starship](https://github.com/aharo24/dot-starship)
 - ### [vivaldi](https://github.com/aharo24/dot-vivaldi)
 
 
